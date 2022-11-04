@@ -7,7 +7,7 @@ fontsize: 11pt
 output-file: "index.html"
 ---
 
-[Chapter 1](ch1_The-Golem-of-Prague.html)
+[Chapter 1](ch1/ch1_The-Golem-of-Prague.html)
 
 [Chapter 2](ch2_Small-Worlds-and-Large-Worlds.html)
 
