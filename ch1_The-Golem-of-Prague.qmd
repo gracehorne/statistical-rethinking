@@ -1,0 +1,43 @@
+---
+title: "Chapter 1: The Golem of Prague"
+format: html
+editor: visual
+mainfont: Palatino
+fontsize: 11pt
+---
+
+### 1.1 Statistical Golems
+
+-   A golem is a clay robot that is "animated by truth" but is without free will and therefore does exactly what it is told
+
+-   Scientific "golems" are the machines (models) that do the statistical work for us
+
+### 1.2 Statistical Rethinking
+
+-   Deductive falsification is nearly always impossible because:
+
+    -   Hypotheses are *not* models. Many models can correspond to the same hypothesis and many hypotheses can correspond to a single model.
+
+        -   There are many non-neutral models that generate the same predictions as neutral models, clouding inference.
+
+        -   Statistical models can also be confused by unobserved variables and sampling bias.
+
+    -   Measurement matters.
+
+        -   "Observations are prone to error, especially at the boundaries of scientific knowledge"
+
+        -   "Most hypotheses are quantitative, concerning degrees of existence, rather than discrete, concerning total presence or absence."
+
+        -   These two facts lead us to say that falsification is *consensual* rather than *logical*. This means that as evidence for a scientific phenomenon accumulates, we reach a consensus not a definitive answer.
+
+### 1.3 Tools for Golem Engineering
+
+-   Models are used for testing procedures, but they are also used for making predictions, designing, and arguing
+
+-   At its core, Bayesian data analysis takes a question (model) and uses logic to answer it (probability distributions).
+
+-   In other words, Bayesian data analysis simply counts the number of ways our data could happen, according to our assumptions.
+
+-   Frequentist statistics generates inference by creating a sampling distribution (the distribution of a parameter "re-sampled" many times)
+
+-   Bayesian models treat "randomness" as a property of the model, not of the world. This means that if we could have all of the information, then we could make exactly accurate predictions.
