@@ -4,6 +4,7 @@ format: html
 editor: visual 
 mainfont: Palatino 
 fontsize: 11pt
+output-file: "index.html"
 ---
 
 [Chapter 1](ch1_The-Golem-of-Prague.html)
