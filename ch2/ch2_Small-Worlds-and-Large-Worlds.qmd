@@ -1,0 +1,9 @@
+---
+title: "Chapter 2: Small Worlds and Large Worlds"
+format: html
+editor: visual
+mainfont: Palatino
+fontsize: 11pt
+---
+
+### 2.1 
