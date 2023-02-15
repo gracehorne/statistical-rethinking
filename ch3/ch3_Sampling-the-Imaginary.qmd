@@ -6,6 +6,4 @@ mainfont: Palatino
 fontsize: 11pt
 ---
 
--   Statistical modeling is the practice of generating a "small world" model that is deployable in the "large world"
-
 ### 2.1
